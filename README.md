@@ -1,4 +1,3 @@
-Behavior Drill - Persisting Order
+<h1>Behavior Drill - Persisting Order</h2>
 
-
-![UI Interface](http://min.us/lUEfZmF01Yyoq "My UI Interface")
+<img src="http://min.us/lUEfZmF01Yyoq" alt="UI" title="UI Interface" />
