@@ -1,0 +1,37 @@
+@import url(http://fonts.googleapis.com/css?family=Ruda:400,900);
+
+body {
+  background: #ECF0F1;
+}
+
+.container {
+  margin: 20px auto;
+  width: 600px;
+  padding: 20px;
+  border: 1px dotted grey;
+}
+
+ul.sortable-list {
+  padding: 0;
+  margin: 0 auto;
+}
+
+ul.sortable-list > li {
+  border: 2px #AAA;
+  font-family: 'Ruda', sans-serif;
+  border: 1px solid #999;
+  background-color: #34495E;
+  margin-bottom: 5px;
+  padding: 5px;
+  list-style: none;
+  text-align: center;
+  font-weight: 900;
+  font-style: italic;
+  color: #E0F0FF;
+  font-size: 1.5em;
+  text-shadow: 3px 3px #1F2933;
+}
+
+ul.sortable-list > li:nth-child(even) {
+  background-color: #2C3E50;
+}
