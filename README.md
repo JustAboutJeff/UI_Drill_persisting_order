@@ -1,3 +1,4 @@
-<h1>Behavior Drill - Persisting Order</h2>
+<h3>Behavior Drill - Persisting Order</h3>
+<img src="http://i.minus.com/iUEfZmF01Yyoq.png" alt="UI" title="UI Interface" />
 
-<img src="http://min.us/lUEfZmF01Yyoq" alt="UI" title="UI Interface" />
+
