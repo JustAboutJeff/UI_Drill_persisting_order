@@ -1,0 +1,8 @@
+Item.create(name: "Jeff Belser", position: 0)
+Item.create(name: "Ninja Style", position: 1)
+Item.create(name: "JavaScript Seeker", position: 2)
+Item.create(name: "Stealth Mode", position: 3)
+Item.create(name: "Peace & Quiet", position: 4)
+Item.create(name: "Deep Thoughts", position: 5)
+Item.create(name: "Humble Determination", position: 6)
+Item.create(name: "Clarity of Mind", position: 7)
